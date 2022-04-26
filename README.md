@@ -27,12 +27,14 @@
 ## 設計發想
 
 ### 平面圖設計
-![](https://i.imgur.com/fblUEDx.jpg)
+
+![](https://i.imgur.com/I7be1Pl.jpg)
 
 ### 平面圖設計規劃
 1. 將不同區的建築物用不同的顏色做區別
 2. 重新定義圖例(Legend)的圖示與位置
 3. 將不易尋路的製菸工廠內部另外進行展間位置說明
+
 ![](https://i.imgur.com/M5TCnOH.png)
 
 ### 問題改善:
@@ -42,6 +44,7 @@
 ->強化入口指標
 ->增加周圍物體(如草坪、木棧道、石板道)
 ->增設兩側鄰近捷運站之方位
+
 ![](https://i.imgur.com/s2PzJtS.png)
 
 2. 改善製菸工廠大樓建築物不易辨別之問題
@@ -58,6 +61,7 @@
 ![](https://i.imgur.com/KZadNb9.png)
 
 4. 地圖圖示規劃
+
 ![](https://i.imgur.com/7d1TjBu.png)
 
 ## 設計結論
